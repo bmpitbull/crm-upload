@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRM System - Enhanced Features Guide
 
 ## 🚀 **Getting Started**
@@ -108,3 +109,7 @@
 ---
 
 **Enjoy your enhanced CRM system! 🎉** 
+=======
+# crm-upload
+upload
+>>>>>>> eb28e352cfd6bb48dacfb8ade23e4919117e7b71
